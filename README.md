@@ -1,24 +1,9 @@
-# README
+# Getting Started
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Clone repo: `git clone git@github.com:oroth8/advanced-hotwire.git`
+2. `cd advanced-hotwire`
+3. `bundle install`
+4. `yarn install`
+5. `bin/setup`
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run local server with `bin/dev`
